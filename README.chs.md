@@ -6,6 +6,8 @@
 
 ## 使用说明
 
+YouTube：https://youtu.be/QeWJ2reRXHM
+
 B站：https://www.bilibili.com/video/BV1wf4y167RY
 
 ## 原版语言包
