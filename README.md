@@ -26,6 +26,8 @@ B站：https://www.bilibili.com/video/BV1wf4y167RY
 
 ### 飲水思源
 
+漢化包中所使用的中文字體為[源石黑體](https://github.com/ButTaiwan/genseki-font)
+
 本漢化補丁由[征服者](http://www.gamesir.net/channel.php?id=5)漢化版本修改而來。
 
 ## Remix簡體中文補丁
