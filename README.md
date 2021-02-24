@@ -6,7 +6,7 @@
 
 ## 使用說明
 
-暫未更新
+B站：https://www.bilibili.com/video/BV1wf4y167RY
 
 ## 原版語言包
 
