@@ -20,7 +20,7 @@ B站：https://www.bilibili.com/video/BV1wf4y167RY
 
 #### 20210224
 
-1、将汉化包中中文字体统一更换为[源石黑体](https://github.com/ButTaiwan/genseki-font)
+1、将汉化包中中文字体统一更换为[源石黑体](https://github.com/ButTaiwan/genseki-font)。
 
 2、将「獾式轰炸机」统一改译为「袋狸轰炸机」。
 
@@ -28,9 +28,23 @@ B站：https://www.bilibili.com/video/BV1wf4y167RY
 
 ### 饮水思源
 
-汉化包中所使用的中文字体为[源石黑体](https://github.com/ButTaiwan/genseki-font)
+汉化包中所使用的中文字体为[源石黑体](https://github.com/ButTaiwan/genseki-font)。
 
 本汉化补丁由[征服者](http://www.gamesir.net/channel.php?id=5)汉化版本修改而来。
+
+## 起義語言包
+
+内含繁体中文与简体中文两种语言。
+
+所在档案夹：language pack ep1
+
+### 使用说明
+
+将补丁放入游戏路径后在RA3EP1_english_1.0.SkuDef文件第三行处调用。
+
+### 饮水思源
+
+汉化包中所使用的中文字体为[源厡圆体](https://github.com/ButTaiwan/gensen-font)。
 
 ## Remix简体中文补丁
 
