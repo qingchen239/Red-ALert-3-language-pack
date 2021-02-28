@@ -32,7 +32,7 @@ B站：https://www.bilibili.com/video/BV1wf4y167RY
 
 本汉化补丁由[征服者](http://www.gamesir.net/channel.php?id=5)汉化版本修改而来。
 
-## 起義語言包
+## 起义语言包
 
 内含繁体中文与简体中文两种语言。
 
