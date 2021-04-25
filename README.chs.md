@@ -44,7 +44,7 @@ B站：https://www.bilibili.com/video/BV1wf4y167RY
 
 ### 饮水思源
 
-汉化包中所使用的中文字体为[源厡圆体](https://github.com/ButTaiwan/gensen-font)。
+汉化包中所使用的中文字体为[源泉圆体](https://github.com/ButTaiwan/gensen-font)。
 
 ## Remix简体中文补丁
 
@@ -55,3 +55,7 @@ B站：https://www.bilibili.com/video/BV1wf4y167RY
 #### 20210224
 
 新增0.2.9版本更新。
+
+#### 20210425
+
+新增0.3.0版本更新。
