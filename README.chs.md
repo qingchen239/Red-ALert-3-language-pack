@@ -26,6 +26,10 @@ B站：https://www.bilibili.com/video/BV1wf4y167RY
 
 3、将「史尼普克勘察车」统一修正为「史普尼克勘察车」。
 
+#### 20210718
+
+新增了一个和谐掉大部分中国大陆已知敏感词的简体中文版本。
+
 ### 饮水思源
 
 汉化包中所使用的中文字体为[源石黑体](https://github.com/ButTaiwan/genseki-font)。
